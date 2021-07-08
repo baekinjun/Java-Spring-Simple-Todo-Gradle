@@ -21,6 +21,11 @@ todo server 에 필요한 비즈니스 로직을 구현합니다.
 
 jpa를 이용하여 orm 객체를 사용
 
+## repository
+
+jpa 를 인터페이스로 두어 ORM 을 매핑한다.
+
+
 ## Gradle 빌드툴
 
 gradle 빌드 툴을 이용하여 해당 spring 서버의 필요한 lib 포트 넘버 등을 정의하여 정의 합니다.
